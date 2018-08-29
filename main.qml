@@ -26,5 +26,15 @@ Window {
             height: 100
             source: "qrc:/qtquickplugin/images/template_image.png"
         }
+
+        Text {
+            id: text1
+            x: 102
+            y: 215
+            width: 98
+            height: 45
+            text: qsTr("change")
+            font.pixelSize: 12
+        }
     }
 }

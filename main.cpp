@@ -3,7 +3,7 @@
 
 int main(int argc, char *argv[])
 {
-    //My first Project
+    //My first Project change for commit git
     QGuiApplication app(argc, argv);
 
     QQmlApplicationEngine engine;
